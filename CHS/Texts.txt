@@ -1,11 +1,11 @@
 ﻿
 general.requiredskills.template=对应技能：{0}
 
-general.prioritiesbutton.hover=决定幸存者应该进行哪\n一项任务以及它们的顺\n序。
+general.prioritiesbutton.hover=决定幸存者应该进行哪\n一项工作以及它们的顺\n序。
 
-general.craftingprioritiesbutton.hover=决定制造物品的优先级。
+general.craftingprioritiesbutton.hover=决定制作物品的优先级。
 
-general.disableaitoggle.hover=当取消这一选项时，幸\n存者只会执行自己被直\n接指派的任务。\n\n注意：幸存者同时也不\n会主动吃饭与睡觉。
+general.disableaitoggle.hover=当取消这一选项时，幸\n存者只会执行自己被直\n接指派的工作。\n\n注意：幸存者同时也不\n会主动吃饭与睡觉。
 
 general.explotattack.title=和平路线失败！
 
@@ -33,7 +33,7 @@ general.noitems.text=没有可用物品
 
 general.cancelnorefund.title=你确定吗？
 
-general.cancelnorefund.text=取消这项任务不会返还任何的原材料。确认吗？
+general.cancelnorefund.text=取消这项工作不会返还任何的原材料。确认吗？
 
 general.selectitem.label=选择 {0}
 
@@ -53,9 +53,9 @@ general.workstationreq.text=工作台：{0}
 
 general.health.hover=生命值
 
-general.energy.hover=饥饿值
+general.energy.hover=疲劳值
 
-general.nutrition.hover=疲劳值
+general.nutrition.hover=饥饿值
 
 general.objectbuilt.log={0} 已建造
 
@@ -71,7 +71,7 @@ equipmentslot.usable.name=装备
 
 stats.dps.label=每秒伤害
 
-stats.dpsvsarmor.label=DPS vs Armor
+stats.dpsvsarmor.label=对装甲每秒伤害
 
 infopanel.requiredresearch.label=需要研究：
 
@@ -79,23 +79,23 @@ infopanel.requiredworkstation.label=需要工作台：
 
 infopanel.requiredmaterials.label=需要材料：
 
-infopanel.craftmaterials.label=Materials for crafting {0}
+infopanel.craftmaterials.label=制作{0}所需材料
 
-infopanel.craft.hover=点击制造 {0}.\n按住 {1} 来 \n制造 {2}.
+infopanel.craft.hover=点击制作 {0}.\n按住 {1} 来 \n制作 {2}.
 
-infopanel.cancelcraft.hover=Click to cancel {0}.\nHold {1} to\ncancel {2}.
+infopanel.cancelcraft.hover=点击取消{0}.\n按住{1}键\n取消{2}.
 
-infopanel.autocraft.label=自动制造
+infopanel.autocraft.label=自动制作
 
-infopanel.autocraft.hover=打开/关闭 \n自动制造。
+infopanel.autocraft.hover=打开/关闭 \n自动制作。
 
 infopanel.autocraftmin.label=最小
 
-infopanel.autocraftmin.hover=Begin automatic crafting\nwhen inventory is below \nthis number.\n\nRequires available\nmaterials, research\nand crafting stations.
+infopanel.autocraftmin.hover=当库存小于该数值时开\n始自动制作。\n\n需要对应的材料、研究\n和工作台齐备。
 
 infopanel.autocraftmax.label=最大
 
-infopanel.autocraftmax.hover=Stop automatic crafting\nwhen inventory is above\nthis number.
+infopanel.autocraftmax.hover=当库存大于该数值时停\n止自动制作。
 
 infopanel.objectdimensions.label=物品大小：
 
@@ -111,13 +111,13 @@ time.speed4.hover=八倍速(×8)
 
 general.menu.hover=菜单
 
-newgame.difficulty.normal.hover=挑战难度\n\nExpect a real challenge.\nYou will likely lose in\nyour first few attempts.\n\nThis is the way the game\nwas meant to be played.\n\nNot recommended for \nplayers who don't enjoy \ndifficult games.
+newgame.difficulty.normal.hover=挑战难度\n\n你将会受到近乎真实的\n挑战。最初的几次游戏\n很可能都以失败告终。\n\n这是这个游戏最地道的\n玩法。\n\n不推荐新手尝试。
 
-newgame.difficulty.easy.hover=一般难度\n\nReduced survivor needs, \nsurvivors work faster,\nweaker enemies and \nless frequent attacks.\n\nFor players who don't\nenjoy games that are \nvery hard.
+newgame.difficulty.easy.hover=一般难度\n\n生存者的需求减少，工\n作速度加快，敌人更弱，\n攻击频率更少。\n\n为不喜欢很难的游戏的\n玩家而准备。
 
-newgame.difficulty.casual.hover=简单难度\n\nAlmost all aspects of\nthe game are much\neasier.\n\nFor those seeking a \nmore relaxed experience.
+newgame.difficulty.casual.hover=简单难度\n\n游戏的方方面面都会变\n得更加简单。\n\n为追求轻松体验的玩家\n而准备。
 
-newgame.difficulty.custom.hover=自定义难度\n\nCustomize different aspects\nof the game difficulty to\nfit your preferred challenge\nlevel.
+newgame.difficulty.custom.hover=自定义难度\n\n自己定义游戏各个方面\n的难度，以满足你自己\n的需求。
 
 newgame.difficulty.normal.label=挑战
 
@@ -131,49 +131,49 @@ newgame.randomseed.hover=随机生成种子
 
 newgame.seedinput.label=地图种子
 
-newgame.seedinput.hover=Map Seed determines\nthe random map that\nwill be generated.\n\nThe same seed will \nalways geenrate the \nsame map.
+newgame.seedinput.hover=地图种子决定了将要生\n成地图的形貌。\n\n同一个种子总是生成同\n样的地图。
 
 newgame.title.label=选择难度
 
 customdifficulty.title.label=自定义难度
 
-customdifficulty.needsratemul.label=Needs
+customdifficulty.needsratemul.label=生存需要
 
-customdifficulty.needsratemul.hover=How much food, \ndrink and rest\nsurvivors require \nand how often.
+customdifficulty.needsratemul.hover=幸存者所需食物、饮水\n和休息的数量及频率。
 
 customdifficulty.taskworkratemul.label=工作速度
 
-customdifficulty.taskworkratemul.hover=How long it takes \nsurvivors to\ncomplete their tasks.
+customdifficulty.taskworkratemul.hover=幸存者完成工作所需的\n时间。
 
-customdifficulty.enemyvaluemul.label=Enemy Levels
+customdifficulty.enemyvaluemul.label=敌人等级
 
-customdifficulty.enemyvaluemul.hover=Determines the type\nof enemies you will\nencounter in random\ncombat.
+customdifficulty.enemyvaluemul.hover=决定了你在随机战斗中\n将会遭遇的敌人种类。
 
-customdifficulty.defensedifficultygrowthmul.label=Enemy Progress
+customdifficulty.defensedifficultygrowthmul.label=敌方进度
 
-customdifficulty.defensedifficultygrowthmul.hover=Rate at which \nenemy difficulty\nincreases as time\ngoes by.
+customdifficulty.defensedifficultygrowthmul.hover=敌人强度随时间增长的\n速度。
 
-customdifficulty.enemydamage.label=Enemy Strength
+customdifficulty.enemydamage.label=敌人强度
 
-customdifficulty.enemydamage.hover=How much damage \nenemy attacks deal.
+customdifficulty.enemydamage.hover=敌方攻击造成的伤害数\n量。
 
-customdifficulty.awarenessgrowth.label=Awareness Rate
+customdifficulty.awarenessgrowth.label=察觉速率
 
-customdifficulty.awarenessgrowth.hover=How fast enemies\nbecome aware of\nyour colony.
+customdifficulty.awarenessgrowth.hover=敌人察觉到你营地的速\n度。
 
-customdifficulty.minattackseparation.label=Attack Frequency
+customdifficulty.minattackseparation.label=攻击频率
 
-customdifficulty.minattackseparation.hover=How often enemies\nattack the colony.
+customdifficulty.minattackseparation.hover=敌人攻击你的营地的频\n率。
 
-newgame.enabletutorial.hover=New mechanics will\nbe explained as you\nencounter them when\ntutorials are enabled.
+newgame.enabletutorial.hover=打开教程后，\n你在遇到新的游戏内容\n时会看到相应教程。
 
 newgame.enabletutorial.label=显示新手教程
 
 newgame.play.label=开始游戏
 
-survivor.dead.thirst={0} died of thirst.
+survivor.dead.thirst={0}被渴死了。
 
-survivor.dead.hunger={0} starved to death.
+survivor.dead.hunger={0}被饿死了。
 
 settings.window.title=设置
 
@@ -205,105 +205,105 @@ settings.autosave.hour=小时
 
 settings.disabled.text=关闭
 
-general.awareness.growth={0}\n/day
+general.awareness.growth={0}\n/天
 
-general.awareness.hover=Enemy awareness of \nyour colony determines\nhow often and how strong\nenemy raids will be.\n\nAwareness increases over\ntime. Larger populations\ncause awareness to increase\nfaster.\n\nOther factors can affect\nawareness levels such as\nresearch, buildings, rituals \nand missions.
+general.awareness.hover=敌人对你的营地的察觉\n程度决定了突袭的频率\n与强度。\n\n随着时间增长，人口增\n多，敌人察觉到你的营\n地的速度会越来越快。\n\n其他因素如研究、建筑、\n仪式和任务也会影响察\n觉的程度。
 
 general.alphaversion.text=Alpha版本 {0}
 
-taskpriorities.sort.label=Sort:
+taskpriorities.sort.label=排序：
 
-taskpriorities.draghint.label=Drag to change priorities
+taskpriorities.draghint.label=拖动改变优先级
 
-loadgame.oldversion.title=Old Version
+loadgame.oldversion.title=旧版本
 
-loadgame.oldversion.text=This save is from an older build.\nIt is recommended to start new.\nProceed anyway?
+loadgame.oldversion.text=这个存档来自以前的版本。\n推荐重新开始游戏。\n仍然继续？
 
 loadgame.loseprogress.title=读取游戏
 
-loadgame.loseprogress.text=Are you sure you wish to load?\nUnsaved progress will be lost.
+loadgame.loseprogress.text=确定读取存档吗？\n当前未保存的进度将会丢失。
 
-customize.hair.label=Hair
+customize.hair.label=发型
 
-customize.haircolor.label=Hair Color
+customize.haircolor.label=头发颜色
 
-customize.face.label=Face
+customize.face.label=脸部
 
-customize.facecolor.label=Body Color
+customize.facecolor.label=肤色
 
-customize.hat.label=Hat
+customize.hat.label=帽子款式
 
-customize.shirt.label=Shirt
+customize.shirt.label=上衣款式
 
-customize.shirtcolor.label=Shirt Color
+customize.shirtcolor.label=上衣颜色
 
-customize.pants.label=Pants
+customize.pants.label=裤子款式
 
-customize.pantscolor.label=Pant Color
+customize.pantscolor.label=裤子颜色
 
-customize.shoescolor.label=Shoe Color
+customize.shoescolor.label=鞋子颜色
 
-customize.name.label=Name:
+customize.name.label=名字:
 
 customize.button.hover=个性化
 
 customize.randombutton.hover=随机生成外貌
 
-map.legend.randomevent=Event
+map.legend.randomevent=事件
 
 savegame.newslot.text=新存档
 
-savegame.survivorcount.text={0} Survivors
+savegame.survivorcount.text={0}个幸存者
 
-confirm.deletesave.title=Delete saved game
+confirm.deletesave.title=删除游戏存档
 
-confirm.deletesave.text=Are you sure you wish to delete this saved game?\nThis operation is irreversible.
+confirm.deletesave.text=你确定要删除这个存档吗？\n这一操作是不可逆的。
 
 confirm.quit.title=退出
 
-confirm.quit.text=Are you sure you wish to quit?\nUnsaved progress will be lost.
+confirm.quit.text=确定要退出吗？\n所有未保存的进度将会丢失。
 
 confirm.overwrite.title=覆盖存档
 
-confirm.overwrite.text=Are you sure you wish overwrite existing save?
+confirm.overwrite.text=你确定要覆盖这个存档吗？
 
-confirm.destroy.title=Destroy
+confirm.destroy.title=摧毁
 
-confirm.destroy.text=Are you sure you wish to destroy this object?\nResources will be lost.
+confirm.destroy.text=你确定要摧毁这个物品吗？\n将会失去所用资源。
 
-resources.food.hover=Food\n\nPrepared food only.\nDoes not include\nraw materials.
+resources.food.hover=食物\n\n只有加工过的食物会显\n示在这里，不包括食物\n原材料。
 
-survivor.hungry.warning=Survivor is hungry
+survivor.hungry.warning=幸存者感到饥饿
 
-survivor.tired.warning=Survivor is tired
+survivor.tired.warning=幸存者感到疲惫
 
-survivor.hungryandtired.warning=Survivor is hungry & tired
+survivor.hungryandtired.warning=幸存者又饿又累
 
-survivor.idle.warning=Survivor is idle
+survivor.idle.warning=幸存者无所事事
 
-survivor.levelearned.log={0} gained a new level in {1}
+survivor.levelearned.log={0}的{1}技能提升了一级。
 
-survivor.notask.text=No task
+survivor.notask.text=没有工作
 
 launch.send.label=SEND
 
 healing.approved.label=APPROVED
 
-food.category.format=Food Category: {0}
+food.category.format=食物种类：{0}
 
-food.food1.name=Basic Food
+food.food1.name=基本食物
 
-food.food2.name=Cooked Food
+food.food2.name=加工食物
 
-food.food3.name=Gourmet Food
+food.food3.name=精美食物
 
-crafting.default.verb=Craft {0}
+crafting.default.verb=制作{0}
 
 crafting.prepare.verb=Prepare {0}
 
-crafting.make.verb=Make {0}
+crafting.make.verb=制作{0}
 
-crafting.bake.verb=Bake {0}
+crafting.bake.verb=烘焙{0}
 
 
 
@@ -345,7 +345,7 @@ startup.hints.9=从“行动菜单”中选择一项行动后，你可以拖拽�
 
 startup.hints.10=按住Shift放置多个相同物品。
 
-startup.hints.11=一些枪械可以在有能力生产出它们的原材料之前制造出来，因为这些材料可以通过搜寻得到。
+startup.hints.11=一些枪械可以在有能力生产出它们的原材料之前制作出来，因为这些材料可以通过搜寻得到。
 
 startup.hints.12=把你的营地建在水井的旁边可以节省来回行走的时间。
 
@@ -371,7 +371,7 @@ keymapping.action.zoomin=缩小视野
 
 keymapping.action.zoomout=放大视野
 
-keymapping.action.back=Back
+keymapping.action.back=返回
 
 keymapping.action.pause=暂停/继续
 
@@ -381,25 +381,25 @@ keymapping.action.faster=加快速度
 
 keymapping.action.help=帮助
 
-keymapping.action.toggleselection=Toggle Selection
+keymapping.action.toggleselection=切换框选
 
-keymapping.action.multicraft=Multiple Craft
+keymapping.action.multicraft=制作多个
 
-keymapping.action.multibuild=Multiple Build
+keymapping.action.multibuild=建造多个
 
-keymapping.action.commandmission=Quest Panel
+keymapping.action.commandmission=任务面板
 
 keymapping.action.commandinventory=库存面板
 
-keymapping.action.commandactions=创建任务面板
+keymapping.action.commandactions=创建工作面板
 
 keymapping.action.commandbuild=建造面板
 
-keymapping.action.commandcraft=制造面板
+keymapping.action.commandcraft=制作面板
 
 keymapping.action.commandresearch=研究面板
 
-keymapping.action.commandtasks=任务面板
+keymapping.action.commandtasks=工作面板
 
 keymapping.action.commandworld=世界视图
 
@@ -447,23 +447,23 @@ keymapping.action.rotateright=向右旋转
 
 # Toolbar
 
-toolbar.mission.hover=目标
+toolbar.mission.hover=任务
 
 toolbar.inventory.hover=营地库存
 
-toolbar.actions.hover=Create Tasks\n\nSelect an area to create\nmultiple tasks on all \nsuitable objects within\nthe area.
+toolbar.actions.hover=创建工作\n\n选择一块区域，并对区\n域内所有符合条件的物\n品创建工作。
 
-toolbar.build.hover=Build\n\nPlace new objects\nfor the survivors\nto build.
+toolbar.build.hover=建造\n\n放置新的物品，由幸存\n者进行建造。
 
-toolbar.craft.hover=Crafting\n\nOrder survivors to \ncraft new items\nfrom raw materials.
+toolbar.craft.hover=制作\n\n命令幸存者从原材料制\n作物品。
 
-toolbar.research.hover=Research\n\nSpend research points to\nunlock new blueprints,\ncrafting recipes, rituals\nand other bonuses.
+toolbar.research.hover=研究\n\n花费研究点数解锁新的\n蓝图、制作配方、仪式\n和其他奖励。
 
-toolbar.tasks.hover=Task List\n\nView and cancel\npending tasks.
+toolbar.tasks.hover=工作列表\n\n检视或取消分配的工作。
 
-toolbar.world.hover=World View\n\nSend survivors on\nmissions outside\nthe base.
+toolbar.world.hover=世界视图\n\n派遣幸存者离开营地执\n行任务。
 
-toolbar.base.hover=Base View\n\nBack to base view.
+toolbar.base.hover=营地视图\n\n回到营地视图。
 
 
 
