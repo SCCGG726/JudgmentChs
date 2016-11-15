@@ -65,7 +65,7 @@ general.priorities.label=优先级
 
 equipmentslot.weapon.name=武器
 
-equipmentslot.armor.name=装甲
+equipmentslot.armor.name=护甲
 
 equipmentslot.usable.name=装备
 
@@ -79,11 +79,11 @@ infopanel.requiredworkstation.label=需要工作台：
 
 infopanel.requiredmaterials.label=需要材料：
 
-infopanel.craftmaterials.label=制作{0}所需材料
+infopanel.craftmaterials.label=制作 {0} 个所需材料
 
-infopanel.craft.hover=点击制作 {0}.\n按住 {1} 来 \n制作 {2}.
+infopanel.craft.hover=点击制作 {0}.\n按住{1}来 \n制作 {2}.
 
-infopanel.cancelcraft.hover=点击取消{0}.\n按住{1}键\n取消{2}.
+infopanel.cancelcraft.hover=点击取消 {0}.\n按住{1}键\n取消 {2}.
 
 infopanel.autocraft.label=自动制作
 
@@ -469,163 +469,163 @@ toolbar.base.hover=营地视图\n\n回到营地视图。
 
 # Action Groups
 
-actiongroup.chop.name=Chop Trees
+actiongroup.chop.name=砍树
 
-actiongroup.chop.description=Chop trees for\nwood.
+actiongroup.chop.description=砍伐树木获取木材。
 
-actiongroup.search.name=Search Debris
+actiongroup.search.name=搜索残骸
 
-actiongroup.search.description=Search for scraps\nand medicine.
+actiongroup.search.description=搜寻废料和药物。
 
-actiongroup.gatherwater.name=Fetch Water
+actiongroup.gatherwater.name=取水
 
-actiongroup.gatherwater.description=Gather drinking\nwater from wells.
+actiongroup.gatherwater.description=从井下获取饮用水。
 
-actiongroup.mine.name=Mine
+actiongroup.mine.name=采矿
 
-actiongroup.mine.description=Mine metals or\nminerals. Build\na mine on the\nresources first.
+actiongroup.mine.description=采掘金属或矿物（需要\n先在上方建造矿坑）
 
-actiongroup.quarry.name=Quarry
+actiongroup.quarry.name=挖掘
 
-actiongroup.quarry.description=Quarry stone or\nclay.
+actiongroup.quarry.description=挖掘石头或粘土。
 
-actiongroup.needs.name=Needs
+actiongroup.needs.name=需要
 
-actiongroup.needs.description=Sleep or Eat.
+actiongroup.needs.description=睡觉或吃饭。
 
-actiongroup.build.name=Build
+actiongroup.build.name=建造
 
-actiongroup.build.description=Build objects\nunder construction.
+actiongroup.build.description=建造物品和房屋。
 
-actiongroup.craft.name=Craft
+actiongroup.craft.name=制作
 
-actiongroup.craft.description=Craft items.
+actiongroup.craft.description=制作物品。
 
-actiongroup.agri.name=Farm
+actiongroup.agri.name=耕种
 
-actiongroup.agri.description=Tend to farms.
+actiongroup.agri.description=耕种农作物。
 
-actiongroup.research.name=Scientific Research
+actiongroup.research.name=科学研究
 
-actiongroup.research.description=Produce science\nresearch points.
+actiongroup.research.description=产出科研点数。
 
-actiongroup.occultresearch.name=Occult Research
+actiongroup.occultresearch.name=巫术研究
 
-actiongroup.occultresearch.description=Produce occult\nresearch points.
+actiongroup.occultresearch.description=产出巫术研究点数。
 
-actiongroup.rituals.name=Rituals
+actiongroup.rituals.name=仪式
 
-actiongroup.rituals.description=Perform rituals.
+actiongroup.rituals.description=举行仪式。
 
-actiongroup.train.name=Train
+actiongroup.train.name=训练
 
-actiongroup.train.description=Train combat skill.
+actiongroup.train.description=训练战斗技能。
 
-actiongroup.patrol.name=Patrol
+actiongroup.patrol.name=巡逻
 
-actiongroup.patrol.description=Patrol lookout posts.
+actiongroup.patrol.description=巡逻瞭望站。
 
-actiongroup.canceltasks.name=Cancel Tasks
+actiongroup.canceltasks.name=取消工作
 
 
 
 # Skills
 
-skills.base.hover=Base: {0}
+skills.base.hover=基础等级：{0}
 
-skills.exp.hover=({0}/{1} exp)
+skills.exp.hover=({0}/{1}经验值)
 
-skills.gathering.name=Gathering
+skills.gathering.name=采集
 
-skills.gathering.description=How fast a survivor\ngathers raw materials\nsuch as wood, stone\nand clay. Higher levels \nmay increase yield.
+skills.gathering.description=幸存者采集原材料的速\n度，包括木材、石头和\n粘土等。更高的等级有可能增加收\n入。
 
-skills.physics.name=Science
+skills.physics.name=科研
 
-skills.physics.description=How fast a survivor\ngenerates science\nresearch points in\nthe experiment table.
+skills.physics.description=幸存者使用研究台生产\n科研点数的速度。
 
-skills.crafting.name=Crafting
+skills.crafting.name=制作
 
-skills.crafting.description=How fast a survivor\ncrafts new items and\n cooks food.
+skills.crafting.description=幸存者制作物品和烹饪\n食物的速度。
 
-skills.agriculture.name=Farming
+skills.agriculture.name=耕种
 
-skills.agriculture.description=How efficient a survivor\nis in planting, harvesting\nand tending to farms. \nHigher levels may increase\nyield during harvest.
+skills.agriculture.description=幸存者播种、照料和收\n割植物的效率。更高的\n等级有可能增加收入。
 
-skills.construction.name=Building
+skills.construction.name=建造
 
-skills.construction.description=How fast a survivor\ncan build objects.
+skills.construction.description=幸存者建造物品的速度。
 
-skills.combat.name=Combat
+skills.combat.name=战斗
 
-skills.combat.description=How efficient a survivor\nis in combat. Improves\naccuracy and evasion\nrates.
+skills.combat.description=幸存者战斗的效率，提\n升命中率和闪避率。
 
-skills.occult.name=Occult
+skills.occult.name=巫术
 
-skills.occult.description=How fast a survivor\ngenerates occult \nresearch points and\nperforms rituals.
+skills.occult.description=幸存者生产巫术点数和\n举行仪式的速度。
 
 
 
 # Missions
 
-missions.scavenge.name=Scavenge
+missions.scavenge.name=搜寻
 
-missions.scavenge.description=Send a team of\nsurvivors to search\nfor resources at this\nlocation.
+missions.scavenge.description=派遣一队幸存者搜集此\n处的资源。
 
-missions.rescue.name=Send Rescue
+missions.rescue.name=派遣救援
 
-missions.rescue.description=Send a team of\nsurvivors to aid\nthe person in need.
+missions.rescue.description=派遣一队幸存者营救求\n助者。
 
-missions.scout.name=Scout
+missions.scout.name=侦察
 
-missions.scout.description=Scout the area \nto reveal unexplored\nregions nearby.
+missions.scout.description=发现附近的未探索区域。
 
-missions.hellgate.name=Investigate
+missions.hellgate.name=调查
 
-missions.hellgate.description=Send a group to\ninvestigate the hellgate.\n\nBe prepared to meet\nstrong enemy forces.
+missions.hellgate.description=派遣一队幸存者调查地\n狱之门。\n\n做好遭遇强大敌人的准\n备。
 
-missions.attack.name=Attack
+missions.attack.name=进攻
 
-missions.attack.description=Killing the scouting team \nreduces awareness level.\n\nIgnoring them or losing\nthe fight raises \nawareness.
+missions.attack.description=击杀敌方侦察队来减少\n察觉程度。\n\n无视它们或者输掉战斗\n都会增加察觉程度。
 
 
 
 # Panels
 
-panels.craftingpriorities.title=Crafting Priorities
+panels.craftingpriorities.title=制作优先级
 
-panels.teamselect.title=Team Selection
+panels.teamselect.title=小队选择
 
-panels.inventory.title=Inventory
+panels.inventory.title=库存
 
 panels.actions.title=Area Actions
 
-panels.build.title=Build
+panels.build.title=建造
 
-panels.crafting.title=Crafting
+panels.crafting.title=制作
 
-panels.taskpriorities.title=Task Priorities
+panels.taskpriorities.title=工作优先级
 
-panels.research.title=Research
+panels.research.title=研究
 
-panels.savegame.title=Save Game
+panels.savegame.title=保存游戏
 
-panels.loadgame.title=Load Game
+panels.loadgame.title=读取游戏
 
 panels.taskforce.title=Task Force
 
 panels.tasks.title=Tasks
 
-panels.newgame.title=New Game
+panels.newgame.title=新游戏
 
 panels.defensepreparation.title=Defense Preparation
 
-panels.healing.title=Healing
+panels.healing.title=治疗
 
-panels.helpindex.title=Help
+panels.helpindex.title=帮助
 
-panels.gamemenu.title=Game Menu
+panels.gamemenu.title=游戏菜单
 
-panels.combatsummary.title=Combat Summary
+panels.combatsummary.title=战斗总结
 
 
 
@@ -683,23 +683,23 @@ enemies.firespitter.description=A fire spitting demon, do not let this one get t
 
 # Status Effects
 
-statuseffects.accuracy.attribute=Accuracy +{1}%
+statuseffects.accuracy.attribute=命中率+{1}%
 
-statuseffects.evade.attribute=Evasion +{1}%
+statuseffects.evade.attribute=闪避率+{1}%
 
-statuseffects.attackspeed.attribute=Attack Speed +{1}%
+statuseffects.attackspeed.attribute=攻击速度+{1}%
 
-statuseffects.defense.attribute=Armor +{0}
+statuseffects.defense.attribute=护甲+{0}
 
-statuseffects.damage.attribute=Damage +{1}%
+statuseffects.damage.attribute=伤害+{1}%
 
-statuseffects.speed.attribute=Running Speed +{1}%
+statuseffects.speed.attribute=奔跑速度+{1}%
 
-statuseffects.flashbang.name=Disoriented
+statuseffects.flashbang.name=错乱
 
-statuseffects.weakeningrune.name=Weakened
+statuseffects.weakeningrune.name=削弱
 
-statuseffects.hex.name=Hexed
+statuseffects.hex.name=着魔
 
 statuseffects.protectionspell.name=Protected
 
@@ -903,67 +903,67 @@ contextcommands.assign.hover=Assign {0} to {1}
 
 # Traits
 
-traits.slayer.name=Slayer
+traits.slayer.name=杀人者
 
-traits.hunter.name=Hunter
+traits.hunter.name=猎手
 
-traits.exorcist.name=Exorcist
+traits.exorcist.name=驱魔人
 
-traits.doctor.name=Doctor
+traits.doctor.name=医生
 
-traits.survivor.name=Survivor
+traits.survivor.name=生还者
 
-traits.brute.name=Brute
+traits.brute.name=残忍
 
-traits.geek.name=Geek
+traits.geek.name=极客
 
-traits.farmer.name=Farmer
+traits.farmer.name=农夫
 
-traits.handy.name=Handy
+traits.handy.name=巧手
 
-traits.hoarder.name=Hoarder
+traits.hoarder.name=囤积狂
 
-traits.stupid.name=Technophobe
+traits.stupid.name=技术恐惧
 
-traits.engineer.name=Engineer
+traits.engineer.name=工程师
 
-traits.weirdo.name=Weirdo
+traits.weirdo.name=怪人
 
-traits.bodybuilder.name=Body Builder
+traits.bodybuilder.name=健美选手
 
-traits.healthy.name=Healthy
+traits.healthy.name=健康
 
-traits.weak.name=Weak
+traits.weak.name=虚弱
 
-traits.obesse.name=Meat Lover
+traits.obesse.name=肉食动物
 
-traits.athletic.name=Athletic
+traits.athletic.name=运动员
 
-traits.agile.name=Agile
+traits.agile.name=敏捷
 
-traits.alienabductee.name=Alien Abductee
+traits.alienabductee.name=外星人劫持
 
-traits.vegan.name=Vegan
+traits.vegan.name=素食主义
 
-traits.hippie.name=Hippie
+traits.hippie.name=嬉皮士
 
-traits.smoker.name=Smoker
+traits.smoker.name=烟民
 
-traits.addict.name=Addict
+traits.addict.name=瘾君子
 
-traits.survivalist.name=Survivalist
+traits.survivalist.name=生存主义者
 
-traits.excop.name=Ex-Cop
+traits.excop.name=警察
 
-traits.spook.name=Spook
+traits.spook.name=幽灵
 
-traits.gardener.name=Gardener
+traits.gardener.name=园丁
 
-traits.believer.name=Believer
+traits.believer.name=信徒
 
-traits.adventurous.name=Adventurous
+traits.adventurous.name=冒险家
 
-traits.clever.name=Clever
+traits.clever.name=聪慧
 
 
 
@@ -997,21 +997,21 @@ error.hungrynofood.text={0} is hungry but found nothing to eat
 
 # Game Menu
 
-gamemenu.continue.label=Resume
+gamemenu.continue.label=返回游戏
 
-gamemenu.save.label=Save
+gamemenu.save.label=保存进度
 
-gamemenu.load.label=Load
+gamemenu.load.label=读取游戏
 
-gamemenu.feedback.label=Send Feedback
+gamemenu.feedback.label=发送反馈
 
-gamemenu.website.label=Website
+gamemenu.website.label=官方网站
 
-gamemenu.help.label=Help
+gamemenu.help.label=帮助
 
-gamemenu.settings.label=Settings
+gamemenu.settings.label=设置
 
-gamemenu.quit.label=Quit
+gamemenu.quit.label=退出
 
 
 
@@ -1087,28 +1087,28 @@ objects.cover.bonus=Bonus Cover: {1}
 
 # Materials Tier 1
 
-items.water.name=Drinking Water
+items.water.name=饮用水
 items.water.description=Gathered from wells.\nSurvivors drink\nwater over time.\n\nSurvivors may lose \nhealth when water \nsupply runs out.
 
-items.wood.name=Wood
+items.wood.name=木材
 items.wood.description=Basic resource used\nmainly for construction\nand crafting.
 
-items.stone.name=Stones
+items.stone.name=石头
 items.stone.description=Basic resource used\nmainly for construction.
 
-items.scraps.name=Scraps
+items.scraps.name=废料
 items.scraps.description=Bits and pieces used\nfor almost everything.\n\nCan be found in\nscavenge missions\nor by searching\ndebris.
 
-items.clay.name=Clay
+items.clay.name=粘土
 items.clay.description=Basic resource used\nmainly for construction.
 
-items.fur.name=Hides
+items.fur.name=兽皮
 items.fur.description=Resource used in\ncrafting recipes.\n\nCan be obtained\nby killing werewolves.
 
-items.wool.name=Wool
+items.wool.name=羊毛
 items.wool.description=Resource used in\ncrafting recipes.
 
-items.wheat.name=Wheat
+items.wheat.name=小麦
 items.wheat.description=Resource used \nin cooking and \ncrafting recipes.
 
 items.physics1.name=Science Research
@@ -1117,20 +1117,20 @@ items.physics1.description=Research points used\nto unlock new science\nbased te
 items.occult1.name=Occult Research
 items.occult1.description=Research points used\nto unlock new occult\nbased technologies.\n\nGenerated by survivors\nworking in magic\ncircles.
 
-items.sulfur.name=Sulfur
+items.sulfur.name=硫磺
 items.sulfur.description=Resource used in\noccult rituals and\ncrafting.\n\nCan be obtained\nby killing weaker\ndemons.
 
-items.medicine.name=Medicine
+items.medicine.name=药物
 items.medicine.description=Resource used in\ncrafting recipes and\nfor healing injured\nsurvivors at the\ninfirmary.\n\nCan be found in\nscavenge missions\nand by searching debris.
 
-items.arrows.name=Arrows
+items.arrows.name=箭矢
 items.arrows.description=Used in bows and\ncrossbows.
 
 
 
 # Materials Tier 2
 
-items.metals.name=Metals
+items.metals.name=金属
 items.metals.description=Resource used in\ncrafting recipes.
 
 items.physics2.name=Science Parts
@@ -1143,10 +1143,10 @@ items.ectoplasm.description=Resource used in\noccult rituals and\ncrafting.\n\nC
 items.boards.name=Boards
 items.boards.description=Resource used \nmainly for\nconstruction.
 
-items.bricks.name=Bricks
+items.bricks.name=砖块
 items.bricks.description=Resource used \nmainly for\nconstruction.
 
-items.weaponparts.name=Weapon Parts
+items.weaponparts.name=武器零件
 items.weaponparts.description=Resource used to\nmake firearms.\n\nCan be obtained\nin scavenge missions.
 
 items.cloth.name=Cloth
@@ -1158,10 +1158,10 @@ items.demonite.description=Resource used in\nmost dark magic\ncrafting recipes.\
 items.alcohol.name=Alcohol
 items.alcohol.description=Resource used in\ncrafting recipes.
 
-items.herbs.name=Herbs
+items.herbs.name=药草
 items.herbs.description=Resource used \nin cooking and \ncrafting recipes.
 
-items.gunpowder.name=Gunpowder
+items.gunpowder.name=火药
 items.gunpowder.description=Resource used in\ncrafting recipes.
 
 
@@ -1198,21 +1198,21 @@ items.machines.name=#Mechanical Parts
 
 # Food
 
-items.tomato.name=Vegetables
-items.tomato.description=Resource used for\ncooking.
+items.tomato.name=蔬菜
+items.tomato.description=用于烹饪。
 
-items.salad.name=Salad
+items.salad.name=沙拉
 
-items.bread.name=Bread
+items.bread.name=面包
 
-items.sandwich.name=Sandwich
+items.sandwich.name=三明治
 
-items.pickles.name=Pickles
+items.pickles.name=泡菜
 
-items.pasta.name=Pasta
+items.pasta.name=意面
 
-items.cannedfood.name=Canned Food
-items.cannedfood.description=Found in scavenge.
+items.cannedfood.name=罐头食品
+items.cannedfood.description=通过搜寻获得。
 
 
 
@@ -1225,13 +1225,13 @@ items.baseballbat.description=Professionally made\nclub.\n\nFound in scavenge.
 
 items.quarterstaff.name=Quarterstaff
 
-items.bow.name=Bow
+items.bow.name=弓
 
-items.crossbow.name=Crossbow
+items.crossbow.name=十字弓
 
-items.longbow.name=Composite Bow
+items.longbow.name=复合弓
 
-items.olympicbow.name=Olympic Bow
+items.olympicbow.name=奥运级弓
 items.olympicbow.description=Better than any hand\ncrafted bow.\n\nFound in scavenge.
 
 
