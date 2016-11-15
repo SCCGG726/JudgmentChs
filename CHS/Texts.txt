@@ -1,147 +1,147 @@
 ﻿
-general.requiredskills.template=Skills: {0}
+general.requiredskills.template=对应技能：{0}
 
-general.prioritiesbutton.hover=决定幸存者应该进\n行哪一项任务以及\n它们的顺序。
+general.prioritiesbutton.hover=决定幸存者应该进行哪\n一项任务以及它们的顺\n序。
 
-general.craftingprioritiesbutton.hover=决定制造物品的优\n先级。
+general.craftingprioritiesbutton.hover=决定制造物品的优先级。
 
-general.disableaitoggle.hover=When disabled the\nsurvivor will only perform\ntasks directly assigned.\n\nNote: Survivor will\nnot eat or sleep when\ndisabled.
+general.disableaitoggle.hover=当取消这一选项时，幸\n存者只会执行自己被直\n接指派的任务。\n\n注意：幸存者同时也不\n会主动吃饭与睡觉。
 
-general.explotattack.title=Pacifism Failed!
+general.explotattack.title=和平路线失败！
 
-general.explotattack.message=You chose the way of pacifism. You thought that if you'd turn the other cheek and keep your head low, the demons would leave you be.\n\nYou were wrong. As you go about your daily routines, someone yells "Imp!". They found you. You now understand this is a war you cannot sit out. \n\nWithout any weapons, you must now defend yourselves.
+general.explotattack.message=你们选择了和平路线。你们以为只要放弃反抗并且谨小慎微地活着，恶魔们就会放你们一马。\n\n你们错了。当正在处理日常工作时，有人喊道“Imp！”。它们找上门了。你们开始明白，这是一场无法逃脱的战争。\n\n手无寸铁的你们必须从现在开始保护好自己。
 
-general.duration.format=Duration: {0}
+general.duration.format=耗时：{0}
 
-general.none.label=None
+general.none.label=无
 
-general.moreinfo.hover=Right click for more info
+general.moreinfo.hover=右击获得更多信息…
 
-general.build.label=Build
+general.build.label=建造
 
-general.performresearch.label=Research
+general.performresearch.label=研究
 
-general.male.he=he
+general.male.he=他
 
-general.male.his=his
+general.male.his=他的
 
-general.female.she=she
+general.female.she=她
 
-general.female.her=her
+general.female.her=她的
 
-general.noitems.text=No items available
+general.noitems.text=没有可用物品
 
-general.cancelnorefund.title=Are You Sure?
+general.cancelnorefund.title=你确定吗？
 
-general.cancelnorefund.text=Cancelling this task will not return any raw materials. Proceed?
+general.cancelnorefund.text=取消这项任务不会返还任何的原材料。确认吗？
 
-general.selectitem.label=Select {0}
+general.selectitem.label=选择 {0}
 
-general.day.text=Day {0}
+general.day.text=第{0}天
 
-general.enemies.title=Enemies
+general.enemies.title=敌人
 
-general.killedenemies.title=Kills
+general.killedenemies.title=击杀
 
-general.loot.title=Loot
+general.loot.title=战利品
 
-general.combatsummary.extras.title=Other
+general.combatsummary.extras.title=其他
 
 general.recall.hover=Recall
 
-general.workstationreq.text=Workstation: {0}
+general.workstationreq.text=工作台：{0}
 
-general.health.hover=Health
+general.health.hover=生命值
 
-general.energy.hover=Energy
+general.energy.hover=饥饿值
 
-general.nutrition.hover=Nutrition
+general.nutrition.hover=疲劳值
 
-general.objectbuilt.log={0} built
+general.objectbuilt.log={0} 已建造
 
-general.ok.label=Ok
+general.ok.label=确定
 
-general.priorities.label=Priorities
+general.priorities.label=优先级
 
-equipmentslot.weapon.name=Weapon
+equipmentslot.weapon.name=武器
 
-equipmentslot.armor.name=Armor
+equipmentslot.armor.name=装甲
 
-equipmentslot.usable.name=Equipment
+equipmentslot.usable.name=装备
 
-stats.dps.label=DPS
+stats.dps.label=每秒伤害
 
 stats.dpsvsarmor.label=DPS vs Armor
 
-infopanel.requiredresearch.label=Required Research:
+infopanel.requiredresearch.label=需要研究：
 
-infopanel.requiredworkstation.label=Required Workshop:
+infopanel.requiredworkstation.label=需要工作台：
 
-infopanel.requiredmaterials.label=Required Materials
+infopanel.requiredmaterials.label=需要材料：
 
 infopanel.craftmaterials.label=Materials for crafting {0}
 
-infopanel.craft.hover=Click to craft {0}.\nHold {1} to \ncraft {2}.
+infopanel.craft.hover=点击制造 {0}.\n按住 {1} 来 \n制造 {2}.
 
 infopanel.cancelcraft.hover=Click to cancel {0}.\nHold {1} to\ncancel {2}.
 
-infopanel.autocraft.label=Auto Crafting
+infopanel.autocraft.label=自动制造
 
-infopanel.autocraft.hover=Enable / disable \nautocraft.
+infopanel.autocraft.hover=打开/关闭 \n自动制造。
 
-infopanel.autocraftmin.label=Min
+infopanel.autocraftmin.label=最小
 
 infopanel.autocraftmin.hover=Begin automatic crafting\nwhen inventory is below \nthis number.\n\nRequires available\nmaterials, research\nand crafting stations.
 
-infopanel.autocraftmax.label=Max
+infopanel.autocraftmax.label=最大
 
 infopanel.autocraftmax.hover=Stop automatic crafting\nwhen inventory is above\nthis number.
 
-infopanel.objectdimensions.label=Dimensions:
+infopanel.objectdimensions.label=物品大小：
 
-time.pause.hover=Pause
+time.pause.hover=暂停
 
-time.speed1.hover=Normal Speed
+time.speed1.hover=常速(×1)
 
-time.speed2.hover=x2 Speed
+time.speed2.hover=二倍速(×2)
 
-time.speed3.hover=x4 Speed
+time.speed3.hover=四倍速(×4)
 
-time.speed4.hover=x8 Speed
+time.speed4.hover=八倍速(×8)
 
-general.menu.hover=Menu
+general.menu.hover=菜单
 
-newgame.difficulty.normal.hover=Challenging Difficulty\n\nExpect a real challenge.\nYou will likely lose in\nyour first few attempts.\n\nThis is the way the game\nwas meant to be played.\n\nNot recommended for \nplayers who don't enjoy \ndifficult games.
+newgame.difficulty.normal.hover=挑战难度\n\nExpect a real challenge.\nYou will likely lose in\nyour first few attempts.\n\nThis is the way the game\nwas meant to be played.\n\nNot recommended for \nplayers who don't enjoy \ndifficult games.
 
-newgame.difficulty.easy.hover=Forgiving Difficulty\n\nReduced survivor needs, \nsurvivors work faster,\nweaker enemies and \nless frequent attacks.\n\nFor players who don't\nenjoy games that are \nvery hard.
+newgame.difficulty.easy.hover=一般难度\n\nReduced survivor needs, \nsurvivors work faster,\nweaker enemies and \nless frequent attacks.\n\nFor players who don't\nenjoy games that are \nvery hard.
 
-newgame.difficulty.casual.hover=Casual Difficulty\n\nAlmost all aspects of\nthe game are much\neasier.\n\nFor those seeking a \nmore relaxed experience.
+newgame.difficulty.casual.hover=简单难度\n\nAlmost all aspects of\nthe game are much\neasier.\n\nFor those seeking a \nmore relaxed experience.
 
-newgame.difficulty.custom.hover=Custom Difficulty\n\nCustomize different aspects\nof the game difficulty to\nfit your preferred challenge\nlevel.
+newgame.difficulty.custom.hover=自定义难度\n\nCustomize different aspects\nof the game difficulty to\nfit your preferred challenge\nlevel.
 
-newgame.difficulty.normal.label=Challenging
+newgame.difficulty.normal.label=挑战
 
-newgame.difficulty.easy.label=Forgiving
+newgame.difficulty.easy.label=一般
 
-newgame.difficulty.casual.label=Casual
+newgame.difficulty.casual.label=简单
 
-newgame.difficulty.custom.label=Custom
+newgame.difficulty.custom.label=自定义
 
-newgame.randomseed.hover=Randomize Seed
+newgame.randomseed.hover=随机生成种子
 
-newgame.seedinput.label=Map Seed
+newgame.seedinput.label=地图种子
 
 newgame.seedinput.hover=Map Seed determines\nthe random map that\nwill be generated.\n\nThe same seed will \nalways geenrate the \nsame map.
 
-newgame.title.label=Select Difficulty
+newgame.title.label=选择难度
 
-customdifficulty.title.label=Custom Difficulty
+customdifficulty.title.label=自定义难度
 
 customdifficulty.needsratemul.label=Needs
 
 customdifficulty.needsratemul.hover=How much food, \ndrink and rest\nsurvivors require \nand how often.
 
-customdifficulty.taskworkratemul.label=Work Speed
+customdifficulty.taskworkratemul.label=工作速度
 
 customdifficulty.taskworkratemul.hover=How long it takes \nsurvivors to\ncomplete their tasks.
 
@@ -167,49 +167,49 @@ customdifficulty.minattackseparation.hover=How often enemies\nattack the colony.
 
 newgame.enabletutorial.hover=New mechanics will\nbe explained as you\nencounter them when\ntutorials are enabled.
 
-newgame.enabletutorial.label=Show tutorials
+newgame.enabletutorial.label=显示新手教程
 
-newgame.play.label=Start
+newgame.play.label=开始游戏
 
 survivor.dead.thirst={0} died of thirst.
 
 survivor.dead.hunger={0} starved to death.
 
-settings.window.title=Settings
+settings.window.title=设置
 
-settings.controls.label=Key Mapping
+settings.controls.label=键位设置
 
-settings.controls.reset.label=Restore Defaults
+settings.controls.reset.label=恢复默认
 
-settings.controls.reset.confirmtitle=Restore Defaults
+settings.controls.reset.confirmtitle=恢复默认
 
-settings.controls.reset.confirmtext=Restore default controls?
+settings.controls.reset.confirmtext=确定恢复默认吗？
 
-settings.resolution.label=Resolution
+settings.resolution.label=分辨率
 
-settings.fullscreen.label=Fullscreen
+settings.fullscreen.label=全屏游戏
 
-settings.aa.label=Antia Aliasing
+settings.aa.label=抗锯齿
 
-settings.enveffects.label=Env. Effects
+settings.enveffects.label=环境效果
 
-settings.music.label=Music
+settings.music.label=音乐
 
-settings.sfx.label=Sound FX
+settings.sfx.label=音效
 
-settings.autosave.label=Autosave Every
+settings.autosave.label=自动存档：每
 
-settings.autosave.minutes=Minutes
+settings.autosave.minutes=分钟
 
-settings.autosave.hour=Hour
+settings.autosave.hour=小时
 
-settings.disabled.text=Disabled
+settings.disabled.text=关闭
 
 general.awareness.growth={0}\n/day
 
 general.awareness.hover=Enemy awareness of \nyour colony determines\nhow often and how strong\nenemy raids will be.\n\nAwareness increases over\ntime. Larger populations\ncause awareness to increase\nfaster.\n\nOther factors can affect\nawareness levels such as\nresearch, buildings, rituals \nand missions.
 
-general.alphaversion.text=Alpha Version {0}
+general.alphaversion.text=Alpha版本 {0}
 
 taskpriorities.sort.label=Sort:
 
@@ -219,7 +219,7 @@ loadgame.oldversion.title=Old Version
 
 loadgame.oldversion.text=This save is from an older build.\nIt is recommended to start new.\nProceed anyway?
 
-loadgame.loseprogress.title=Load Game
+loadgame.loseprogress.title=读取游戏
 
 loadgame.loseprogress.text=Are you sure you wish to load?\nUnsaved progress will be lost.
 
@@ -245,13 +245,13 @@ customize.shoescolor.label=Shoe Color
 
 customize.name.label=Name:
 
-customize.button.hover=Customize
+customize.button.hover=个性化
 
-customize.randombutton.hover=Randomize Appearance
+customize.randombutton.hover=随机生成外貌
 
 map.legend.randomevent=Event
 
-savegame.newslot.text=New Slot
+savegame.newslot.text=新存档
 
 savegame.survivorcount.text={0} Survivors
 
@@ -259,11 +259,11 @@ confirm.deletesave.title=Delete saved game
 
 confirm.deletesave.text=Are you sure you wish to delete this saved game?\nThis operation is irreversible.
 
-confirm.quit.title=Quit
+confirm.quit.title=退出
 
 confirm.quit.text=Are you sure you wish to quit?\nUnsaved progress will be lost.
 
-confirm.overwrite.title=Overwrite
+confirm.overwrite.title=覆盖存档
 
 confirm.overwrite.text=Are you sure you wish overwrite existing save?
 
@@ -309,77 +309,77 @@ crafting.bake.verb=Bake {0}
 
 # Title Screen Buttons - Uncomment to localize (otherwise English images will be used)
 
-#titlescreen.continue.button=<b>C o n t i n u e</b>
+#titlescreen.continue.button=<b>继 续 游 戏</b>
 
-#titlescreen.new.button=<b>N e w  G a m e</b>
+#titlescreen.new.button=<b>新 游 戏</b>
 
-#titlescreen.settings.button=<b>S e t t i n g s</b>
+#titlescreen.settings.button=<b>设 置</b>
 
-#titlescreen.quit.button=<b>Q u i t</b>
+#titlescreen.quit.button=<b>退 出</b>
 
 
 
 # Startup Hints
 
-startup.loading.text=Loading...
+startup.loading.text=加载中...
 
-startup.hints.format=Hint: {0}
+startup.hints.format=提示：{0}
 
-startup.hints.1=Drag with your middle mouse button to move the camera
+startup.hints.1=按住鼠标中键来移动镜头。
 
-startup.hints.2=Move the camera by moving the mouse to the edge of the screen
+startup.hints.2=把鼠标移到屏幕边缘来移动镜头。
 
-startup.hints.3=Attacking enemies from opposite directions (flanking) gives a boost to accuracy and damage
+startup.hints.3=从相反方向攻击敌人(侧面夹击)会使命中率和伤害大幅提高。
 
-startup.hints.4=Hungry or tired survivors do not perform well in combat
+startup.hints.4=饥饿或疲劳的幸存者不能很好地进行战斗。
 
-startup.hints.5=Attacking from behind cover increases accuracy and reduces chance of being hit
+startup.hints.5=从背后攻击可以提升命中率并减少被攻击的几率。
 
-startup.hints.6=Quickly pause/unpause the game with spacebar
+startup.hints.6=使用空格键可以快速暂停/继续游戏。
 
-startup.hints.7=Press "Q" to select all your survivors
+startup.hints.7=按下Q可以选中全部幸存者。
 
-startup.hints.8=Zoom in and out using the mouse wheel
+startup.hints.8=使用鼠标滚轮调整视野。
 
-startup.hints.9=After selecting an action from the 'Actions' menu, you can drag a box to select a large area
+startup.hints.9=从“行动菜单”中选择一项行动后，你可以拖拽鼠标框选出一大片区域。
 
-startup.hints.10=Hold 'Shift' when placing an object to keep placing more
+startup.hints.10=按住Shift放置多个相同物品。
 
-startup.hints.11=Some firearms can be crafted before their raw materials. These materials can be scavenged.
+startup.hints.11=一些枪械可以在有能力生产出它们的原材料之前制造出来，因为这些材料可以通过搜寻得到。
 
-startup.hints.12=Build your base near a well in order to reduce travel time.
+startup.hints.12=把你的营地建在水井的旁边可以节省来回行走的时间。
 
-startup.notes.text=Latest patch notes
+startup.notes.text=最新发行注记
 
-startup.subscribe.text=Subscribe for updates
+startup.subscribe.text=订阅更新
 
 
 
 # Key Mapping
 
-keymapping.action.selectall=Select All Survivors
+keymapping.action.selectall=选择全体幸存者
 
-keymapping.action.left=Camera Left
+keymapping.action.left=镜头左移
 
-keymapping.action.right=Camera Right
+keymapping.action.right=镜头右移
 
-keymapping.action.up=Camera Up
+keymapping.action.up=镜头上移
 
-keymapping.action.down=Camera Down
+keymapping.action.down=镜头下移
 
-keymapping.action.zoomin=Zoom In
+keymapping.action.zoomin=缩小视野
 
-keymapping.action.zoomout=Zoom Out
+keymapping.action.zoomout=放大视野
 
 keymapping.action.back=Back
 
-keymapping.action.pause=Pause/Unpause
+keymapping.action.pause=暂停/继续
 
-keymapping.action.slower=Decrease Speed
+keymapping.action.slower=减慢速度
 
-keymapping.action.faster=Increase Speed
+keymapping.action.faster=加快速度
 
-keymapping.action.help=Help
+keymapping.action.help=帮助
 
 keymapping.action.toggleselection=Toggle Selection
 
@@ -389,67 +389,67 @@ keymapping.action.multibuild=Multiple Build
 
 keymapping.action.commandmission=Quest Panel
 
-keymapping.action.commandinventory=Inventory Panel
+keymapping.action.commandinventory=库存面板
 
-keymapping.action.commandactions=Create Tasks Panel
+keymapping.action.commandactions=创建任务面板
 
-keymapping.action.commandbuild=Building Panel
+keymapping.action.commandbuild=建造面板
 
-keymapping.action.commandcraft=Crafting Panel
+keymapping.action.commandcraft=制造面板
 
-keymapping.action.commandresearch=Research Panel
+keymapping.action.commandresearch=研究面板
 
-keymapping.action.commandtasks=Tasks Panel
+keymapping.action.commandtasks=任务面板
 
-keymapping.action.commandworld=World View
+keymapping.action.commandworld=世界视图
 
-keymapping.action.commandbase=Base View
+keymapping.action.commandbase=营地视图
 
-keymapping.action.combataction1=Combat Action 1
+keymapping.action.combataction1=战斗行动1
 
-keymapping.action.combataction2=Combat Action 2
+keymapping.action.combataction2=战斗行动2
 
-keymapping.action.combataction3=Combat Action 3
+keymapping.action.combataction3=战斗行动3
 
-keymapping.action.combataction4=Combat Action 4
+keymapping.action.combataction4=战斗行动4
 
-keymapping.action.combataction5=Combat Action 5
+keymapping.action.combataction5=战斗行动5
 
-keymapping.action.combataction6=Combat Action 6
+keymapping.action.combataction6=战斗行动6
 
-keymapping.action.selectsurvivor1=Select Group 1
+keymapping.action.selectsurvivor1=选择小组1
 
-keymapping.action.selectsurvivor2=Select Group 2
+keymapping.action.selectsurvivor2=选择小组2
 
-keymapping.action.selectsurvivor3=Select Group 3
+keymapping.action.selectsurvivor3=选择小组3
 
-keymapping.action.selectsurvivor4=Select Group 4
+keymapping.action.selectsurvivor4=选择小组4
 
-keymapping.action.selectsurvivor5=Select Group 5
+keymapping.action.selectsurvivor5=选择小组5
 
-keymapping.action.selectsurvivor6=Select Group 6
+keymapping.action.selectsurvivor6=选择小组6
 
-keymapping.action.selectsurvivor7=Select Group 7
+keymapping.action.selectsurvivor7=选择小组7
 
-keymapping.action.selectsurvivor8=Select Group 8
+keymapping.action.selectsurvivor8=选择小组8
 
-keymapping.action.selectsurvivor9=Select Group 9
+keymapping.action.selectsurvivor9=选择小组9
 
-keymapping.action.selectsurvivor10=Select Group 10
+keymapping.action.selectsurvivor10=选择小组10
 
-keymapping.action.setselectiongroup=Set Group
+keymapping.action.setselectiongroup=设置小组
 
-keymapping.action.rotateleft=Rotate Right
+keymapping.action.rotateleft=向左旋转
 
-keymapping.action.rotateright=Rotate Left
+keymapping.action.rotateright=向右旋转
 
 
 
 # Toolbar
 
-toolbar.mission.hover=Mission
+toolbar.mission.hover=目标
 
-toolbar.inventory.hover=Base Inventory
+toolbar.inventory.hover=营地库存
 
 toolbar.actions.hover=Create Tasks\n\nSelect an area to create\nmultiple tasks on all \nsuitable objects within\nthe area.
 
@@ -1912,29 +1912,29 @@ actions.locatesurvivors.description=A spell that locates other survivors in the 
 
 # Actions
 
-actions.chop.name=Chop Tree
+actions.chop.name=砍树
 
-actions.search.name=Collect Scraps
+actions.search.name=收集废料
 
-actions.quarrystone.name=Quarry Stone
+actions.quarrystone.name=挖掘石头
 
-actions.quarryclay.name=Quarry Clay
+actions.quarryclay.name=挖掘粘土
 
-actions.minemetal.name=Mine Metal
+actions.minemetal.name=采掘金属
 
-actions.mineminerals.name=Mine Minerals
+actions.mineminerals.name=采掘矿物
 
 actions.scienceresearch.name=Perform Experiments
 
 actions.occultresearch.name=Practice Occult
 
-actions.harvest.name=Harvest Crops
+actions.harvest.name=收割作物
 
-actions.plant.name=Plant Seeds
+actions.plant.name=播种
 
-actions.water.name=Water Field
+actions.water.name=浇灌田地
 
-actions.feed.name=Feed Animals
+actions.feed.name=喂食
 
 actions.sheer.name=Shear Wool
 
