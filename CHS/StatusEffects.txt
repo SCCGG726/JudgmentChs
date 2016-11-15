@@ -1,0 +1,35 @@
+﻿# Ability Effects
+statuseffects.base.positive.sprite=statuseffect_positive
+
+statuseffects.base.negative.sprite=statuseffect_negative
+
+statuseffects.entity.flashbang.parents=statuseffects.base.negative
+statuseffects.entity.flashbang.effect.accuracy=-0.5
+statuseffects.entity.flashbang.effect.evade=-0.5
+
+statuseffects.entity.weakeningrune.parents=statuseffects.base.negative
+statuseffects.entity.weakeningrune.effect.accuracy=-0.25
+statuseffects.entity.weakeningrune.effect.evade=-0.25
+
+statuseffects.entity.hex.parents=statuseffects.base.negative
+statuseffects.entity.hex.effect.accuracy=-0.5
+statuseffects.entity.hex.effect.attackspeed=-0.5
+
+statuseffects.entity.protectionspell.parents=statuseffects.base.positive
+statuseffects.entity.protectionspell.effect.evade=0.5
+statuseffects.entity.protectionspell.effect.defense=1
+
+statuseffects.entity.gingerextract.parents=statuseffects.base.positive
+statuseffects.entity.gingerextract.effect.attackspeed=0.15
+
+
+# Built-in effects
+statuseffects.entity.meleevsranged.parents=statuseffects.base.positive
+statuseffects.entity.meleevsranged.effect.accuracy=0.5
+
+statuseffects.entity.rangedadjacent.parents=statuseffects.base.negative
+statuseffects.entity.rangedadjacent.effect.accuracy=-0.5
+
+statuseffects.entity.flanking.parents=statuseffects.base.positive
+statuseffects.entity.flanking.effect.accuracy=0.3
+statuseffects.entity.flanking.effect.damage=0.3
