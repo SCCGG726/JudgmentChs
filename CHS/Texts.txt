@@ -3,7 +3,7 @@ general.requiredskills.template=Skills: {0}
 
 general.prioritiesbutton.hover=决定幸存者应该进\n行哪一项任务以及\n它们的顺序。
 
-general.craftingprioritiesbutton.hover=Define which items \nreceive higher priority \nwhen crafting.
+general.craftingprioritiesbutton.hover=决定制造物品的优\n先级。
 
 general.disableaitoggle.hover=When disabled the\nsurvivor will only perform\ntasks directly assigned.\n\nNote: Survivor will\nnot eat or sleep when\ndisabled.
 
