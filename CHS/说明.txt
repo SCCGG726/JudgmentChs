@@ -1,0 +1,5 @@
+打开游戏目录/Data下的ModConfig.txt文件
+
+删除“#modconfig.mods=MyMod”之前的#，并将MyMod改为CHS
+
+把CHS文件夹拷入Mods文件夹下。
